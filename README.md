@@ -1,5 +1,6 @@
-# Gemini-Langchain-Chatbot
-This repository consists of retrieval-based chatbot using Gemini API.
+# RAG-based chatbot using Gemini-Langchain-FAISS
+This repository consists of a retrieval-augmented chatbot using Gemini API, LangChain, and FAISS for context-aware responses.
+It retrieves relevant information from embedded text chunks to answer user queries accurately.
 
 # Libraries Required
 - LangChain
